@@ -25,7 +25,7 @@
 .pdf
 
 ## Bibliography auxiliary files (bibtex/biblatex/biber):
-#*.bbl
+*.bbl
 *.bcf
 *.blg
 *-blx.aux
@@ -245,3 +245,5 @@ TSWLatexianTemp*
 
 .ipynb_checkpoints
 .*.swp
+
+sioslab_talk_template.pdf
